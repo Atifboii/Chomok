@@ -1,0 +1,8 @@
+.card{
+  box-shadow: 5px 10px 5px rgba(0, 0, 0, 0.822);
+  background-color: #c0bf8f69;
+   transition: transform 0.5s ease;
+}
+.card:hover{
+  transform: translateY(-10px);
+}
